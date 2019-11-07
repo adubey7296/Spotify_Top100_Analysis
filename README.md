@@ -2,8 +2,9 @@
 
 # Top Spotify Tracks of 2018 or 2017
 
-If you log in to Spotify.me, you will get a personalized summary of how Spotify understands you through the music you listen to on Spotify. It is pretty cool!
-*As someone who listens to music a lot and who likes to play around with data, this project is good for analyzing.
+* If you log in to Spotify.me, you will get a personalized summary of how Spotify understands you through the music you listen to on Spotify. It is pretty cool!
+
+* As someone who listens to music a lot and who likes to play around with data, this project is good for analyzing.
 
 # Exploratory Data Analysis
 * Our goal here is to understand the type of music playlist, retrieve any interesting observations and compare that with the audio features of the top 100 songs of 2018 or 2017.
@@ -14,4 +15,4 @@ If you log in to Spotify.me, you will get a personalized summary of how Spotify 
 # Dataset
 * At the end of each year, Spotify compiles a playlist of the songs streamed most often over the course of that year and this playlist has 100 tracks. The dataset I used was already available on Kaggle: Top Spotify Tracks of 2018 or 2017.
 
-* Top 100 songs from Spotify seem like a reasonable dataset to consider as our hit songs.(of year 2017 or 2018)
+* Top 100 songs from Spotify seem like a reasonable dataset to consider as our hit songs(of year 2017 or 2018).
